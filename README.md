@@ -11,11 +11,14 @@ The application was full developed using flutter.
 
 ## Main Screen
 <p float = 'left'><img src = 'screenshot/Main_Screen.png' width='200'/></p>
-# Search Screen
+
+## Search Screen
 <p float = 'left'><img src = 'screenshot/Search_Screen.png' width='200'/></p>
-# Gif Selected Screen
+
+## Gif Selected Screen
 <p float = 'left'><img src = 'screenshot/Open-Gif-Screen.png' width='200'/></p>
-# Share Screen
+
+## Share Screen
 <p float = 'left'><img src = 'screenshot/Share_Screen.png' width='200'/></p>
 
 ## Getting Started
